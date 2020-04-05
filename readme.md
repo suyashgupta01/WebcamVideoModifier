@@ -17,3 +17,5 @@ The following key presses will result in the given actions:
 8)  plus key : rotate 10 degreess to right
 9)  minus key : rotate 10 degrees to left 
 10)  b : blur effect on video
+
+Python modules used: opencv, matplotlib, numpy
